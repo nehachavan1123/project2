@@ -1,4 +1,4 @@
 #  New Project 
 
 This Project was created from local system.
-created by neha chavan.
+created by Neha Chavan.
